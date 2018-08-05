@@ -30,7 +30,7 @@ $thankyou = "Thankyou"; // thank you page
 
 // if you update the question on the form -
 // you need to update the questions answer below
-$antispam_answer = "{ANSWER}";
+// $antispam_answer = "{ANSWER}";
 
 ?>';
 
